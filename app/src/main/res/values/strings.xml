@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRIPTOGRAFIA_XAT_GUILLEM</string>
+    <string name="buttonSendText">Envia</string>
+    <string name="txtvw1">Guillem Pejó</string>
+    <string name="txtvw2">M09UF1 - Seguretat i criptografia</string>
+    <string name="btn">Accedir</string>
+</resources>
